@@ -1,1 +1,1 @@
-A new directory listing new shell commands
+Various scripts showing various shell commands
