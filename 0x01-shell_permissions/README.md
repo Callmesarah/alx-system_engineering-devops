@@ -1,2 +1,2 @@
 #!/bin/bash
-new readme
+A series of scripts that will show various commands.
